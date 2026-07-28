@@ -9,7 +9,7 @@
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "src/maiى.js"
+            "dest": "src/main.js"
         }
     ]
 }
